@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'src/leds/build/leds.elf'
+elf = 'src/leds/build/leds.elf'
